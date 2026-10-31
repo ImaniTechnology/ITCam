@@ -1,0 +1,14 @@
+Privacy Policy for IPCam
+As of: 2026
+Thank you for using IPCam. The protection of your personal data is very important to us. Below, we inform you about how data is handled when using our app.
+1. No Data Collection by the Developer
+The IPCam app does not collect, store, or process any personal data or usage data on external servers.
+2. Local Connection
+The app serves as a universal viewer for IP cameras and connects exclusively and directly (or via the IP address and port you manually enter) to your own devices. No camera images, streams, or access credentials are transmitted to the developer or any third parties.
+3. No Advertising and No Tracking
+The app is completely ad-free and contains no analytics tools, tracking SDKs, or advertising networks.
+4. Changes to This Privacy Policy
+Any changes to this privacy policy will be published with the respective next version of the app on this page or in the App Store.   
+5. Contact
+If you have any questions regarding data protection, you can contact the developer directly:
+Developer: Jakob Imani / @ImaniTechnology
